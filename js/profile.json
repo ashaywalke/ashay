@@ -1,10 +1,9 @@
 {
 	"personalInfo": {
 		"myimg": "image.jpg",
-		"fname": "Shubham",
-		"mname": "Parashram",
-		"lname": "Sawant",
-		"nick":"moghya",
+		"fname": "Ashay",
+		"mname": "Amarnath",
+		"lname": "Walke",
 		"address": {
 			"list": ["Gupta Layout, Mahakali road, Washim, District-Washim, Maharashtra, India 444505 ",
 				"'OM' Jaihind colony, Vishrambag, Sangli District-Sangli, Maharashtra, India 416415"
